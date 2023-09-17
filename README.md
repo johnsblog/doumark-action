@@ -55,7 +55,7 @@ jobs:
         message: 'chore: update douban data'
         add: './data/douban'
 ```
-### Sync to Notion
+###  Notion
 
 1. Create a Notion Integration at [My Integrations - Notion](https://www.notion.so/my-integrations). And here you can get `NOTION_TOKEN`.
     - Associated workspace: You should select workspace which you should store.
