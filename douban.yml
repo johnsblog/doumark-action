@@ -17,7 +17,7 @@ jobs:
     - name: movie
       uses: johnsblog/doumark-action@master
       with:
-        id: John
+        id: 181457333
         type: movie
         format: csv
         dir: data/douban
@@ -25,7 +25,7 @@ jobs:
     - name: movie2neodb
       uses: johnsblog/doumark-action@master
       with:
-        id: John
+        id: 181457333
         type: movie
         format: neodb
        
@@ -33,7 +33,7 @@ jobs:
     - name: book
       uses: jjohnsblog/doumark-action@master
       with:
-        id: John
+        id: 181457333
         type: book
         format: csv
         dir: ./data/douban
@@ -41,7 +41,7 @@ jobs:
     - name: book2neodb
       uses: johnsblog/doumark-action@master
       with:
-        id: John
+        id: 181457333
         type: book
         format: neodb
         
